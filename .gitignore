@@ -1,0 +1,13 @@
+
+.env
+*.key
+datasets/
+cache/
+__pycache__/
+logs/
+venv/
+.venv/
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
